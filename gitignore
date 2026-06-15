@@ -1,0 +1,25 @@
+# Archivos generados al ejecutar los notebooks
+results/
+
+# Modelos guardados
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos originales (no subir el Excel con datos sensibles)
+*.xlsx
+*.xls
+
+# Entornos virtuales
+venv/
+.env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
