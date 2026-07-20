@@ -49,6 +49,13 @@ TFG-anomalias-NIR-limones/
 ├── .gitignore
 └── README.md
 ```
+> **Nota sobre los datos:** el dataset original (`MUESTRAS SELECCIONADAS.xlsx`/`.csv`) no
+> está incluido en este repositorio. Los datos fueron proporcionados por el IVIA (Instituto
+> Valenciano de Investigaciones Agrarias) para este trabajo y no son de acceso público; para
+> reproducir los notebooks es necesario disponer de ese archivo por separado, colocado en el
+> mismo directorio desde el que se ejecutan.
+
+---
 
 ## Metodología (resumen)
 
