@@ -40,6 +40,7 @@ TFG-anomalias-NIR-limones/
 │   ├── models.py                    # Modelos baseline de regresión
 │   ├── metrics.py                   # Métricas de regresión (MAE, RMSE, R²)
 │   └── training.py                  # Entrenamiento, evaluación y guardado de modelos
+│   └── utils.py                     # Utilidades de guardado/carga genérico con joblib
 │
 ├── TFG_1.ipynb                      # Notebook 1: limpieza, EDA y anomalías univariantes
 ├── deteccion_anomalias_pyod.ipynb   # Notebook 2: detección de anomalías con PyOD
