@@ -50,13 +50,6 @@ TFG-anomalias-NIR-limones/
 └── README.md
 ```
 
-> **Nota sobre los datos:** [PENDIENTE — indica aquí si el dataset original
-> (`MUESTRAS SELECCIONADAS.xlsx`/`.csv`, proporcionado por el IVIA) está incluido en el
-> repositorio, o si hay que solicitarlo aparte y a quién. No lo veo en el listado del repo,
-> así que no sé cuál es tu caso.]
-
----
-
 ## Metodología (resumen)
 
 - **Validación externa por origen agrícola:** el conjunto de test lo forma íntegramente el
